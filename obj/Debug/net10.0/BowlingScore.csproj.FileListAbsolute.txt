@@ -1,0 +1,14 @@
+C:\NetBeans Projects\BowlingScore\BowlingScore\bin\Debug\net10.0\BowlingScore.exe
+C:\NetBeans Projects\BowlingScore\BowlingScore\bin\Debug\net10.0\BowlingScore.deps.json
+C:\NetBeans Projects\BowlingScore\BowlingScore\bin\Debug\net10.0\BowlingScore.runtimeconfig.json
+C:\NetBeans Projects\BowlingScore\BowlingScore\bin\Debug\net10.0\BowlingScore.dll
+C:\NetBeans Projects\BowlingScore\BowlingScore\bin\Debug\net10.0\BowlingScore.pdb
+C:\NetBeans Projects\BowlingScore\BowlingScore\obj\Debug\net10.0\BowlingScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetBeans Projects\BowlingScore\BowlingScore\obj\Debug\net10.0\BowlingScore.AssemblyInfoInputs.cache
+C:\NetBeans Projects\BowlingScore\BowlingScore\obj\Debug\net10.0\BowlingScore.AssemblyInfo.cs
+C:\NetBeans Projects\BowlingScore\BowlingScore\obj\Debug\net10.0\BowlingScore.csproj.CoreCompileInputs.cache
+C:\NetBeans Projects\BowlingScore\BowlingScore\obj\Debug\net10.0\BowlingScore.dll
+C:\NetBeans Projects\BowlingScore\BowlingScore\obj\Debug\net10.0\refint\BowlingScore.dll
+C:\NetBeans Projects\BowlingScore\BowlingScore\obj\Debug\net10.0\BowlingScore.pdb
+C:\NetBeans Projects\BowlingScore\BowlingScore\obj\Debug\net10.0\BowlingScore.genruntimeconfig.cache
+C:\NetBeans Projects\BowlingScore\BowlingScore\obj\Debug\net10.0\ref\BowlingScore.dll
