@@ -1,16 +1,11 @@
 # Bowling Score Calculator
 
-This is a C# console application that calculates the score of a full bowling game for the Onsharp interview process.
+This is a C# console application that calculates the score of a bowling game. Made for the coding problem from Onsharp.
 
-## Features
-
-- Supports multiple players
-- Handles strikes, spares, and open frames
-- Correct 10th frame scoring rules
-- Input validation for user entries
+This follows all requirments of the question with the addition of having the ability to have multiple players in a game.
 
 ## How to Run
 
 1. Clone the repository
-2. Navigate to the project folder containing BowlingScore.csproj and Program.cs
-3. Run: dotnet run
+2. Navigate to the project folder containing BowlingScore.csproj and Program.cs in the console (Ex. cd BowlingScore)
+3. Run this command in the console: dotnet run
